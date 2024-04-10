@@ -1,3 +1,5 @@
+![hello-world](./images/hello-world.png)
+
 <p align="center">
   <a href="https://github.com/SphereStacking/SphereStacking">
     <img src="https://komarev.com/ghpvc/?username=SphereStacking" alt="SphereStacking" />
@@ -12,8 +14,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/sphere-stacking/posts.svg" />
   </a>
 </p>
-![hello-world](./images/hello-world.png)
-
 <h1 align="center">Hi 👋, I'm Sphere</h1>
 <h3 align="center">A passionate developer in Japan</h3>
 
@@ -63,8 +63,10 @@
 ### 📝 I regularly write articles on [qiita](https://qiita.com/)
 
 <p align="left">
+  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 </p>
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=SphereStacking&theme=vue-dark&show_icons=true"/></p>
 
