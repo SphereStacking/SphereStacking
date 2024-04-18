@@ -74,6 +74,5 @@
 </p>
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=SphereStacking&theme=vue-dark&show_icons=true"/></p>
 
-<
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SphereStacking&theme=vue-dark&show_icons=true&layout=compact"/></p>
 
