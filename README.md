@@ -63,8 +63,8 @@
       "🦐"
     ],
     "career" : [
-        { "jobtype":"Web Developer", "period":"2023/08 ~ now" },
-        { "jobtype":"🚀🛰📡 Developer", "period":"2016/04 ~ 2023/07" }
+        { "jobtype":"Web Engineer", "period":"2023/08 ~ now" },
+        { "jobtype":"🚀🛰📡 Engineer", "period":"2016/04 ~ 2023/07" }
     ],
   }
 }
