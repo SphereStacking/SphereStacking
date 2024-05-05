@@ -5,13 +5,16 @@
     <img src="https://komarev.com/ghpvc/?username=SphereStacking" alt="SphereStacking" />
   </a>
   <a href="http://twitter.com/SphereVR">
-    <img height="20" src="https://img.shields.io/twitter/follow/sphereVR?style=for-the-badge&logo=x&label=x" />
+    <img height="20" src="https://img.shields.io/twitter/follow/sphereVR?style=flat&logo=x&label=x" />
   </a>
   <a href="https://github.com/SphereStacking">
     <img height="20" src="https://img.shields.io/github/followers/SphereStacking?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/sphere-stacking">
     <img height="20" src="https://qiita-badge.apiapi.app/s/sphere-stacking/posts.svg" />
+  </a>
+  <a href="https://spherestacking.fanbox.cc/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/fanbox-fanbox?style=flat&logo=pixiv&color=%23FAF18A">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Sphere</h1>
@@ -50,12 +53,6 @@
         { "jobtype":"Web Developer", "period":"2023/08 ~ now" },
         { "jobtype":"🚀🛰📡 Developer", "period":"2016/04 ~ 2023/07" }
     ],
-    "links" : [
-        { "service":"x", "url":"https://x.com/sphere-stacking"},
-        { "service":"github", "url":"https://github.com/ShakeSpheres"},
-        { "service":"qiita", "url":"https://qiita.com/sphere-stacking"},
-        { "service":"pixiv fanbox", "url":"https://spherestacking.fanbox.cc/"}
-    ]
   }
 }
 ```
