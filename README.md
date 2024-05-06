@@ -16,6 +16,9 @@
   <a href="https://spherestacking.fanbox.cc/">
     <img alt="Static Badge" src="https://img.shields.io/badge/fanbox-fanbox?style=flat&logo=pixiv&color=%23FAF18A">
   </a>
+  <a href="https://www.patreon.com/SphereStacking">
+    <img alt="Static Badge" src="https://img.shields.io/badge/patreon-patreon?style=flat&logo=patreon&color=21262D"">
+  </a>
 </p>
 <h1 align="center">Hi 👋, I'm Sphere</h1>
 <h3 align="center">A passionate developer in Japan</h3>
@@ -73,7 +76,7 @@
 ### 🏢The services I operate
 
 <a href="https://ghostshelfie.com/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/👻GhostShelfie-service?style=flat">
+  <img alt="Static Badge" src="https://img.shields.io/badge/👻GhostShelfie-service?style=flat&color=21262D">
 </a>
 
 ### 📝 I regularly write articles on [qiita](https://qiita.com/)
