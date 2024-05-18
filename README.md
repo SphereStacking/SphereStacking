@@ -58,7 +58,7 @@
   "profile" : {
     "name" : "XX XX",
     "handlename" : "Sphere",
-    "features" : [ "怠け者", "引きこもり", "コミュ症" ],
+    "features" : [ "Lazy", "Introverted", "Socially anxious" ],
     "tolikes" : [
       "🟢(#bbffcc)","🏍️",
     ],
