@@ -75,8 +75,8 @@
 
 ### 🏢The services I operate
 
-<a href="https://ghostshelfie.com/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/👻GhostShelfie-service?style=flat&color=21262D">
+<a href="https://hollowshelfie.com/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/👻HollowShelfie-service?style=flat&color=21262D">
 </a>
 
 ### 📝 I regularly write articles on [qiita](https://qiita.com/)
