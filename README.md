@@ -87,7 +87,7 @@
 <p align="left">
   
 <!-- BLOG-POST-LIST:START -->
-- [[個人開発] 業界未経験でWEB系に転職して苦しんだので勉強のためにWEBサービスを作った話](https://qiita.com/sphere-stacking/items/231e22bb571f6cf0c319)
+- [『個人開発』VRイベント共有サービスをリリースしました](https://qiita.com/sphere-stacking/items/11236b9af636201b133d)
 - [LaravelでMermaid形式のER図を楽に生成する方法](https://qiita.com/sphere-stacking/items/0f6f0b824fe51cfbe69e)
 - [Slack Boltの開発ローカル環境構築](https://qiita.com/sphere-stacking/items/cd80f1099bfb25354f53)
 - [viewportに入った時にイケてる演出できるコンポーネント](https://qiita.com/sphere-stacking/items/b2c5ab6e5daee8cc95f4)
