@@ -79,14 +79,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/👻HollowShelfie-service?style=flat&color=21262D">
 </a>
 
+## LT slide
+
+- [LT会スライドまとめ](https://spherestacking.github.io/SlideCollection/)
+
 ### 📝 I regularly write articles on [qiita](https://qiita.com/)
 
 <p ><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=SphereStacking&theme=vue-dark&show_icons=true"/></p>
 <p ><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SphereStacking&theme=vue-dark&show_icons=true&layout=compact"/></p>
 
-## LT slide
-
-- [LT会スライドまとめ](https://spherestacking.github.io/SlideCollection/)
 
 <p align="left">
   
