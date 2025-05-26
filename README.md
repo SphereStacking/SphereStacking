@@ -62,7 +62,7 @@
 <a href="https://hollowshelfie.com/">
   <img alt="Static Badge" src="https://img.shields.io/badge/👻HollowShelfie-service?style=flat&color=21262D">
 </a>
-<a href="https://spherestacking.github.io/Portfolio/">
+<a href="https://www.spherestacking.com/?at=github+profile">
   <img alt="Static Badge" src="https://img.shields.io/badge/portfolio-portfolio?style=flat&color=bbffcc"">
 </a>
 
