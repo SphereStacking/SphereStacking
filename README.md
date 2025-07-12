@@ -4,8 +4,8 @@
   <a href="https://github.com/SphereStacking/SphereStacking">
     <img src="https://komarev.com/ghpvc/?username=SphereStacking" alt="SphereStacking" />
   </a>
-  <a href="http://twitter.com/SphereVR">
-    <img height="20" src="https://img.shields.io/twitter/follow/sphereVR?style=flat&logo=x&label=x" />
+  <a href="http://twitter.com/SphereStacking">
+    <img height="20" src="https://img.shields.io/twitter/follow/SphereStacking?style=flat&logo=x&label=x" />
   </a>
   <a href="https://github.com/SphereStacking">
     <img height="20" src="https://img.shields.io/github/followers/SphereStacking?label=follow&logo=github&style=flat" />
