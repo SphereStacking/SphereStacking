@@ -58,9 +58,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <p align="right"><samp>personal development &gt;&gt;</samp></p>
 
 
@@ -69,9 +66,9 @@
 
 <h2><samp>My main knowledge</samp></h2>
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=SphereStacking&theme=vue-dark&show_icons=true"/>
+<img align="right" height="130" src="https://github-readme-stats.vercel.app/api?username=SphereStacking&theme=vue-dark&show_icons=true"/>
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SphereStacking&theme=vue-dark&show_icons=true&layout=compact"/>
+<img align="right" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SphereStacking&theme=vue-dark&show_icons=true&layout=compact"/>
 
 <p align="left">
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></code>
