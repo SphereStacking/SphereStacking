@@ -29,44 +29,6 @@
 }
 ```
 
-<br>
-<br>
-
-<h2><samp>My projects</samp></h2>
-
-<a href="https://www.spherestacking.com/?at=github+profile">
-   <img align="left"  src="https://www.spherestacking.com/__og-image__/image/og.png"  width="49%" alt="HollowShelfie"  >
-</a>
-
-<a href="https://hollowshelfie.com/">
-  <img align="right" src="https://github.com/SphereStacking/HollowShelfie/blob/main/.images/x_summary_large_image.png?raw=true" width="49%" alt="HollowShelfie" >
-</a>
-
-
-<p align="left"><samp>&lt;&lt; portfolio</samp></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p align="right"><samp>personal development &gt;&gt;</samp></p>
-
-
-<br>
-<br>
-
 <h2><samp>My main knowledge</samp></h2>
 
 <img align="right" height="130" src="https://github-readme-stats.vercel.app/api?username=SphereStacking&theme=vue-dark&show_icons=true"/>
@@ -86,9 +48,6 @@
 </p>
 
 
-<br>
-<br>
-
 <h2><samp>Links</samp></h2>
 
 <p align="center">
@@ -96,8 +55,27 @@
     <a href="https://www.spherestacking.com?at=github+profile">me</a> -
     <a href="https://www.spherestacking.com/blog?at=github+profile">blog</a> -
     <a href="https://spherestacking.github.io/SlideCollection/">talk</a> -
-    <a href="http://x/SphereStacking/">x</a> -
+    <a href="http://x.com/SphereStacking/">x</a> -
     <a href="https://spherestacking.fanbox.cc/">fanbox</a> -
     <a href="https://www.patreon.com/SphereStacking/">patreon</a>
   </samp>
 </p>
+
+<h2><samp>My projects</samp></h2>
+
+<a href="https://www.spherestacking.com/?at=github+profile">
+  <p align="left"><samp>&lt;&lt; portfolio</samp></p>
+  
+   <img align="left"  src="https://www.spherestacking.com/__og-image__/image/og.png"  width="48%" alt="HollowShelfie"  >
+</a>
+
+<a href="https://hollowshelfie.com/">
+  <p align="right"><samp>personal development &gt;&gt;</samp></p>
+  <img align="right" src="https://github.com/SphereStacking/HollowShelfie/blob/main/.images/x_summary_large_image.png?raw=true" width="48%" alt="HollowShelfie" >
+</a>
+
+<p></p>
+
+<br>
+
+
