@@ -58,6 +58,8 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 <p align="right"><samp>personal development &gt;&gt;</samp></p>
 
 
