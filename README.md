@@ -54,7 +54,7 @@
   <samp>
     <a href="https://www.spherestacking.com?at=github+profile">me</a> -
     <a href="https://www.spherestacking.com/blog?at=github+profile">blog</a> -
-    <a href="https://www.spherestacking.com/talk">talk</a> -
+    <a href="https://www.spherestacking.com/talk?at=github+profile">talk</a> -
     <a href="http://x.com/SphereStacking/">x</a> -
     <a href="https://spherestacking.fanbox.cc/">fanbox</a> -
     <a href="https://www.patreon.com/SphereStacking/">patreon</a>
