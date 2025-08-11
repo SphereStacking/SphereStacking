@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SphereStacking" alt="SphereStacking" />
 </p>
+
 <h3 align="center"><samp>A passionate developer in Japan</samp></h3>
 
 ``` json
@@ -56,8 +57,7 @@
     <a href="https://www.spherestacking.com/blog?at=github+profile">blog</a> -
     <a href="https://www.spherestacking.com/talk?at=github+profile">talk</a> -
     <a href="http://x.com/SphereStacking/">x</a> -
-    <a href="https://spherestacking.fanbox.cc/">fanbox</a> -
-    <a href="https://www.patreon.com/SphereStacking/">patreon</a>
+    <a link='https://ko-fi.com/H2H01FI9XG'>ko-fi</a>
   </samp>
 </p>
 
@@ -74,8 +74,10 @@
   <img align="right" src="https://github.com/SphereStacking/HollowShelfie/blob/main/.images/x_summary_large_image.png?raw=true" width="48%" alt="HollowShelfie" >
 </a>
 
+
+
+
 <p></p>
 
 <br>
-
 
