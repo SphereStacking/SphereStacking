@@ -57,7 +57,7 @@
     <a href="https://www.spherestacking.com/blog?at=github+profile">blog</a> -
     <a href="https://www.spherestacking.com/talk?at=github+profile">talk</a> -
     <a href="http://x.com/SphereStacking/">x</a> -
-    <a link='https://ko-fi.com/H2H01FI9XG'>ko-fi</a>
+    <a href='https://ko-fi.com/H2H01FI9XG'>ko-fi</a>
   </samp>
 </p>
 
